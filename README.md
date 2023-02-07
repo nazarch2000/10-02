@@ -86,6 +86,5 @@ RabbitMQ идеально подходит для веб-серверов, ко�
 *Приведите в пример скриншоты работающей системы и ответы на вопросы.*
 
 ![image](https://user-images.githubusercontent.com/106932460/217279898-26b19205-dd52-4158-bf44-22853e78346d.png)
-![image](https://user-images.githubusercontent.com/106932460/217279950-346ce33d-255d-4cca-a973-46d439c272bd.png)
-
+![image](https://user-images.githubusercontent.com/106932460/217292133-06b24645-75c7-4e59-b045-07c0d43f3dc8.png)
 
