@@ -96,10 +96,12 @@ Docker - система где реализован кластер
 
 ![image](https://user-images.githubusercontent.com/106932460/217884795-44e249d4-7015-4f0e-8aab-86c73a6891d0.png)
 
+![image](https://user-images.githubusercontent.com/106932460/217887689-64404583-5675-41db-8dbc-4a50c0e83bdf.png)
 
 
 ![image](https://user-images.githubusercontent.com/106932460/217882431-d12597a1-7f3d-4121-a396-8a8a4090c181.png)
 ![image](https://user-images.githubusercontent.com/106932460/217883064-0e6574f3-1e7a-461c-8d00-90810d0c3a52.png)
+![image](https://user-images.githubusercontent.com/106932460/217887785-49ae0d60-ad70-4f88-a4b1-b19c39590ab6.png)
 
 *Приведите в пример скриншоты работающей системы и ответы на вопросы.*
 
