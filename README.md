@@ -93,7 +93,9 @@ Docker - система где реализован кластер
 - Какие тесты можно провести для анализа работы кластера?
 Останавливал контейнеры.
 ![image](https://user-images.githubusercontent.com/106932460/217883132-ea9673c2-d77e-4ae8-aa0f-67ae79db665e.png)
+
 ![image](https://user-images.githubusercontent.com/106932460/217884795-44e249d4-7015-4f0e-8aab-86c73a6891d0.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/106932460/217882431-d12597a1-7f3d-4121-a396-8a8a4090c181.png)
